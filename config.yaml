@@ -1,0 +1,7 @@
+openai:
+  api_key: "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"
+
+gemini:
+  model_id: "gemini-1.5-flash-001"
+  project_id: "englishcentral-qa-428220"
+  region: "us-east1"
